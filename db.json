@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "id": "1234",
+      "order": 1,
+      "category": "ASEO",
+      "parentCategory": "-",
+      "own": true,
+      "isLiquor": false,
+      "date": "14 de Septiembre 2020 - 21:43"
+    },
+    {
+      "id": "123232",
+      "order": 1,
+      "category": "ALCOHOL",
+      "parentCategory": "-",
+      "own": false,
+      "isLiquor": tru,
+      "date": "14 de Septiembre 2020 - 21:43"
+    },
+    {
+      "id": "434f",
+      "order": 1,
+      "category": "ASEO",
+      "parentCategory": "-",
+      "own": true,
+      "isLiquor": false,
+      "date": "14 de Septiembre 2020 - 21:43"
+    }
+  ]
+}
